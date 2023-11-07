@@ -66,10 +66,10 @@ else:
 print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 
-
-## Output :
+```
+# Output :
 ![Screenshot (429)](https://github.com/VelasiriSreeja/Muttiple-capacity-with-infinite-capacity/assets/118344328/3c8cb208-a261-42f1-a45a-f8682e851b37)
 
-## Result :
+# Result :
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully
 
